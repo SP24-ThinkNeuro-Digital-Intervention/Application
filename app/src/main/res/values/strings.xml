@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_articles.xml">activity_articles.xml</string>
+    <string name="title_activity_maps.xm">activity_maps.xm</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_articles">activity_articles</string>
+</resources>
